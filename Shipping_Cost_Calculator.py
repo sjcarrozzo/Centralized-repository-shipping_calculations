@@ -1,5 +1,3 @@
-# Here is another update by sjcarrozzo. v2
-
 # Here is a new update by sjcarrozzo
 # Shipping Cost Calculator
 
